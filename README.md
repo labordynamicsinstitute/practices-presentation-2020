@@ -1,6 +1,10 @@
 # Practices for Data Transparency and Reproducibility
 
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4048572.svg)](https://doi.org/10.5281/zenodo.4048572)
+
+
 Author: Lars Vilhuber, ![ORCID](assets/ORCIDiD_icon16x16.png) https://orcid.org/0000-0001-5733-8932
 
 Presentation at [RT2 2020](https://www.bitss.org/wp-content/uploads/2020/07/RT2_Agenda.pdf) (see also [OSF](https://osf.io/a9hck/)) in Session "Day 4 Data Sharing"
