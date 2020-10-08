@@ -22,13 +22,21 @@ I report on the experience gathered from nearly 1,000 reproducibility reports, a
 
 ## Presentations
 
-### RT2 2020
+### 2020-10-09: Cornell Libraries
+
+Shorter Presentation.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4073995.svg)](https://doi.org/10.5281/zenodo.4073995) [v20201009](https://github.com/labordynamicsinstitute/practices-presentation-2020/releases/tag/v20201008)
+
+
+
+### 2020-09-24: RT2 2020
 
 Presentation at [RT2 2020](https://www.bitss.org/wp-content/uploads/2020/07/RT2_Agenda.pdf) (see also [OSF](https://osf.io/a9hck/)) in Session "Day 4 Data Sharing"
 
 #### Release
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4048572.svg)](https://doi.org/10.5281/zenodo.4048572) [v20200924](https://github.com/labordynamicsinstitute/practices-presentation-2020/tree/v20200924)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4048572.svg)](https://doi.org/10.5281/zenodo.4048572) [v20200924](https://github.com/labordynamicsinstitute/practices-presentation-2020/releases/tag/v20200924)
 
 #### Other materials connected to this session
 
