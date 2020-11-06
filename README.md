@@ -11,7 +11,7 @@ Author: Lars Vilhuber, ![ORCID](assets/ORCIDiD_icon16x16.png) https://orcid.org/
 
 > The opinions expressed in this talk are solely the authors, and do not represent the views of the U.S. Census Bureau, the National Academies, the American Economic Association, or any of the funding agencies. 
 
-## Next presentation
+## Approximate Abstract
 
 Working title:  Data Provenance in the Research Lifecycle: Report from the Trenches
 
@@ -22,28 +22,27 @@ I report on the experience gathered from nearly 1,000 reproducibility reports, a
 
 ## Presentations
 
+### 2020-11-06: SWORDC Data Talk (University of Waterloo)
+
+- Focus on reproducibility in restricted-access data centers
+- See [Data talks page](https://uwaterloo.ca/southwestern-ontario-research-data-centre/seminars-and-workshops/data-talks)
+- 
+
 ### 2020-10-09: Cornell Libraries
 
-Shorter Presentation.
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4073995.svg)](https://doi.org/10.5281/zenodo.4073995) [v20201009](https://github.com/labordynamicsinstitute/practices-presentation-2020/releases/tag/v20201008)
+- Shorter Presentation.
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4073995.svg)](https://doi.org/10.5281/zenodo.4073995) [v20201009](https://github.com/labordynamicsinstitute/practices-presentation-2020/releases/tag/v20201008)
 
 
 
 ### 2020-09-24: RT2 2020
 
-Presentation at [RT2 2020](https://www.bitss.org/wp-content/uploads/2020/07/RT2_Agenda.pdf) (see also [OSF](https://osf.io/a9hck/)) in Session "Day 4 Data Sharing"
-
-#### Release
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4048572.svg)](https://doi.org/10.5281/zenodo.4048572) [v20200924](https://github.com/labordynamicsinstitute/practices-presentation-2020/releases/tag/v20200924)
-
-#### Other materials connected to this session
-
-See [OSF storage](https://osf.io/bdmrh/files/)
-
-- Dena Plemmons - Ethics
-- Jen Sturdy - Responsible Open Data
+- Presentation at [RT2 2020](https://www.bitss.org/wp-content/uploads/2020/07/RT2_Agenda.pdf) (see also [OSF](https://osf.io/a9hck/)) in Session "Day 4 Data Sharing"
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4048572.svg)](https://doi.org/10.5281/zenodo.4048572) [v20200924](https://github.com/labordynamicsinstitute/practices-presentation-2020/releases/tag/v20200924)
+- Other materials connected to this session
+  - See [OSF storage](https://osf.io/bdmrh/files/)
+  - Dena Plemmons - Ethics
+  - Jen Sturdy - Responsible Open Data
 
 ## License
 
