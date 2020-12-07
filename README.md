@@ -22,6 +22,16 @@ I report on the experience gathered from nearly 1,000 reproducibility reports, a
 
 ## Presentations
 
+### 2020-12-08: Brookings
+
+### 2020-11-20: Beyond the Number (St. Louis Fed)
+
+Variant (see [repository](https://github.com/labordynamicsinstitute/beyond-2020-presentation))
+
++ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4281633.svg)](https://doi.org/10.5281/zenodo.4281633) [2020-11-20](https://doi.org/10.5281/zenodo.4281633): [Beyond the Numbers 2020](https://research.stlouisfed.org/conferences/beyond-the-numbers/)
+
+<img src="https://files.stlouisfed.org/files/htdocs/publications/images/uploads/2020/btn-update-2020_20200515034203.jpg" alt="Beyond 2020 logo" width="25%" />
+
 ### 2020-11-06: SWORDC Data Talk (University of Waterloo)
 
 - Focus on reproducibility in restricted-access data centers
