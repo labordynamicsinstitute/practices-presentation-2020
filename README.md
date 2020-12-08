@@ -22,7 +22,12 @@ I report on the experience gathered from nearly 1,000 reproducibility reports, a
 
 ## Presentations
 
-### 2020-12-08: Brookings
+### 2020-12-08: [Brookings Institution](https://www.brookings.edu/)
+
+
++ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4311917.svg)](https://doi.org/10.5281/zenodo.4311917) [2020-12-08](https://doi.org/10.5281/zenodo.4311917)
+
+
 
 ### 2020-11-20: Beyond the Number (St. Louis Fed)
 
